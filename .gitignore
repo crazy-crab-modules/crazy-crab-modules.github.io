@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+### global-git-ignore template
+.idea
+vendor
+composer.phar
+generate.php
